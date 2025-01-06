@@ -1,5 +1,12 @@
 # Rofi Power Menu Mode
 
+# 🍴 Fork Adition (Reboot options)
+
+This fork add options to reboot directly into Windows, into Firmware Setup (bios), or reboot normally
+
+![reboot options](./screenshot_reboot.png)
+
+---
 
 Rofi Power Menu provides a mode for offering basic power menu operations such as
 shutting down, logging out, rebooting and suspending. By default, it shows all
